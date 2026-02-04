@@ -1,3 +1,16 @@
+> **⚠️ FORK - Référence stable**
+>
+> Ce fork de [OpenClaw](https://github.com/clawdbot/clawdbot) v2026.2.3 est maintenu comme **référence stable** pour le template [openclaw-claude-code-template](https://github.com/kevin-ghfr/openclaw-claude-code-template).
+>
+> **Pourquoi ce fork ?**
+> - Point de référence stable (évite les breaking changes)
+> - Possibilité de personnaliser si besoin
+> - Vous pouvez forker ce repo pour avoir votre propre référence
+>
+> **Note :** Ce fork n'apporte aucune modification au code d'OpenClaw. Le contournement pour Claude Code CLI est fait dans le template via `entrypoint.sh`.
+>
+> ---
+
 # 🦞 OpenClaw — Personal AI Assistant
 
 <p align="center">
